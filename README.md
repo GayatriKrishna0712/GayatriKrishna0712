@@ -1,3 +1,4 @@
+![logo](https://github.com/GayatriKrishna0712/GayatriKrishna0712/blob/main/The%20only%20way%20to%20do%20greate%20work%20is%20to%20love%20what%20you%20do.%20If%20you%20haven't%20found%20it%20yet%2C%20keep%20looking.%20Don't%20settle..png)
 <h1 align="center">Hello 👋, I'm Gayatri Krishna</h1>
 <h3 align="center">I am an upcoming Data Science Professional with conceptual knowledge, practical tools and problem-solving skills.</h3>
 <img align = "right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Coding" width="300">
