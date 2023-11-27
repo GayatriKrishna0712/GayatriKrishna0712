@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrikrishna0712&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrikrishna0712" /> </p>
 
-- 🌱 I’m currently persuing **Masters in Big Data Analytics**
+- 🌱 **M.Sc Big Data Analytics**
 
 - 💬 Ask me about **Machine Learning, Statistics**
 
